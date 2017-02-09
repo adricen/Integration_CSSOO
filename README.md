@@ -5,6 +5,6 @@ Le CSS Orienté Objet est une maniere d'aranger son style css afin de le rendre 
 
 Pour en savoir plus, allez voir le trés bon guide [guide css](http://guidecss.fr/)
 
-La mquette :
+La maquette :
 
 ![image](img/ref.jpg)
